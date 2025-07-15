@@ -1,1 +1,1 @@
-Test file text
+NEW TEXT
